@@ -1,0 +1,1 @@
+A grayscale heatmap of the Smashing Magazine website - test Visual Heirachy. 
